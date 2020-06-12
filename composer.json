@@ -1,9 +1,9 @@
 {
-    "name" : "philkra/elastic-apm-php-agent",
+    "name" : "wizaplace/elastic-apm-php-agent",
     "description": "A php agent for Elastic APM v2 Intake API",
     "license": "MIT",
     "require" : {
-        "php" : ">= 7.1",
+        "php" : ">= 7.2",
         "guzzlehttp/guzzle": "6.*",
         "ralouphie/getallheaders": "3.*",
         "ext-curl" : "*",
