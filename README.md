@@ -28,10 +28,6 @@ This is a community PHP agent for Elastic.co's [APM](https://www.elastic.co/solu
 vendor/bin/phpunit
 ```
 
-## Contributors
-A big thank you goes out to every contributor of this repo, special thanks goes out to:
-* [dstepe](https://github.com/dstepe)
-* [georgeboot](https://github.com/georgeboot)
-* [alash3al](https://github.com/alash3al)
-* [thinkspill](https://github.com/thinkspill)
-* [YuZhenXie](https://github.com/YuZhenXie)
+## Origin of the project
+This project is a fork of [philkra/elastic-apm-php-agent](https://github.com/philkra/elastic-apm-php-agent)
+
